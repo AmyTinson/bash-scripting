@@ -1,2 +1,2 @@
-# bash-scripting
-A playground for different bash scripts
+# Bash Scripts
+A playground for different bash scripts - some useful, some not 😜
